@@ -162,3 +162,83 @@
 .service-left-container {
     width: 50%;
 }
+
+/* callllllllll */
+.phone-call {
+    display: flex;
+
+
+}
+
+.call-icon {
+    width: 90px;
+}
+
+.appointment-section {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 75%;
+    background-color: rgb(238, 24, 78);
+    padding: 20px;
+    color: white;
+    margin: auto;
+    border-radius: 25px;
+    margin-top: -100px;
+}
+
+.app-description {
+    width: 75%;
+}
+
+.bor {
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 10px;
+}
+
+
+/* blog & neews */
+.blog-news {
+    margin-top: 50px;
+}
+
+.blog-title {
+    text-align: center;
+    margin: auto;
+}
+
+.blog-title p {
+    font-size: 20px;
+    width: 700px;
+    margin: auto;
+}
+
+.blog-title-head {
+    font-size: 50px;
+}
+
+.blog-divs {
+    display: flex;
+    width: 70%;
+    margin: auto;
+    justify-content: center;
+}
+
+.blog-divs img {
+
+    width: 300px;
+    border-radius: 10px;
+}
+
+.blog-div {
+
+    margin: 30px;
+    width: 300px;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 10px;
+
+}
